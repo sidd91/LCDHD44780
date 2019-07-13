@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## LPC1769 ARM Cortex M-3 Library for LCDHD44780
 
 You can use the [editor on GitHub](https://github.com/sidd91/LCDHD44780/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
